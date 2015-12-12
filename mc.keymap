@@ -1,0 +1,13 @@
+[main]
+DirSize = shift-space
+[input]
+Complete = ctrl-space
+Left = left; alt-j
+Right = right; alt-l
+[panel]
+Up = up; alt-i
+Down = down; alt-k
+Left = left; alt-j
+Right = right; alt-l
+BottomOnScreen =
+PanelOtherCdLink = 
