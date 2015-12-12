@@ -11,3 +11,5 @@ Left = left; alt-j
 Right = right; alt-l
 BottomOnScreen =
 PanelOtherCdLink = 
+Search = ctrl-f
+
